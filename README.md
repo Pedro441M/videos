@@ -29,6 +29,6 @@ Mesmo sabendo formas mais modernas e interativas de fazer botões e animações,
 🚀 Acesse o projeto
 Quem quiser ver como ficou o site, pode acessar por este link:
 
-🔗 pedro441m.github.io/videos
+🔗 [pedro441m.github.io/videos](https://pedro441m.github.io/videos/)
 
 Obrigado por visitar! 💻✨
